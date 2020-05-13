@@ -1,0 +1,9 @@
+C:\Users\Mihaela\Tsp.net-lab6\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Mihaela\Tsp.net-lab6\Client\obj\Debug\Client.Form1.resources
+C:\Users\Mihaela\Tsp.net-lab6\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Mihaela\Tsp.net-lab6\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Mihaela\Tsp.net-lab6\Client\bin\Debug\Client.exe.config
+C:\Users\Mihaela\Tsp.net-lab6\Client\bin\Debug\Client.exe
+C:\Users\Mihaela\Tsp.net-lab6\Client\bin\Debug\Client.pdb
+C:\Users\Mihaela\Tsp.net-lab6\Client\obj\Debug\Client.exe
+C:\Users\Mihaela\Tsp.net-lab6\Client\obj\Debug\Client.pdb
